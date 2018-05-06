@@ -1,4 +1,4 @@
 # SMX
-SyntheMax Developer's Boillerplate
+SyntheMax Developer's Boilerplate
 
-A Package hierarchy including AO Repository objeccts organized in M-V-C Archiitecture.
+A Package hierarchy including AO Repository objects and Fiori Apps organized in M-V-C Archiitecture.
